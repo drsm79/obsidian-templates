@@ -3,8 +3,29 @@ tags: daily
 ---
 Things for {{date:dddd Do MMMM}}
 
-## Tasks
+## Premeditation
+Spend five minutes listing three people and three things (they could be meetings, tasks, talking points...) that are taking up space in your mind. After those five minutes, write down any tasks that spring to mind for the day.
+
+### Three people
+
+*Write down the people & why they are on your mind*
+
+-
+-
+-
+
+### Three things
+
+*Write down the things & why they are on your mind*
+
+-
+-
+-
+
+### Tasks
+
 *Think about things that need to get done*
+
 - [ ]
 
 ## Meetings
